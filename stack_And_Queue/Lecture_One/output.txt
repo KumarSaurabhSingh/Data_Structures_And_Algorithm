@@ -1,0 +1,3 @@
+Top Element : 1
+Min Value : 1
+Top Element : 99

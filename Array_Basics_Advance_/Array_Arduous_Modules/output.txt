@@ -1,0 +1,2 @@
+The merged intervals are: 
+[1, 6] [8, 10] [15, 18] 

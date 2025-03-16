@@ -1,0 +1,6 @@
+Linked List with new Head : 
+0 13 20 3 14 9 65 5 
+Linked List with new Tail : 
+0 13 20 3 14 9 65 5 999 
+Linked List with New Entry : 
+0 13 101 20 3 14 9 65 5 999 

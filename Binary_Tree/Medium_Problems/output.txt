@@ -1,0 +1,2 @@
+Top Vertical Traversal: 
+9 2 20 7 
