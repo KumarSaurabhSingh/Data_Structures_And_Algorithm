@@ -1,1 +1,1 @@
-The Number of Provinces: 2
+Minimum Number of Minutes Required -1

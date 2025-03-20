@@ -1,4 +1,6 @@
+import java.util.HashMap;
 import java.util.LinkedList;
+import java.util.Map;
 import java.util.Queue;
 
 class Pair{
@@ -68,7 +70,6 @@ public class NumberOf_IsLand {
                 }
             }
         }
-
 
         return cnt;
     }
