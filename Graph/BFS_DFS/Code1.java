@@ -4,4 +4,4 @@ class Code1
     {
         System.out.println("My First Java Program 12.");
     }
-};
+}
